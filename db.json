@@ -1,0 +1,108 @@
+{
+    "users": [
+      {
+        "id": 1,
+        "course": "English Fluency Marathon",
+        "image": "https://lwfiles.mycourse.app/masai-school-public/cb2e73bdfe4eb2741ea4b07b30b7c759.png",
+        "description": "The English Fluency Marathon (EFM) is a culmination of a deep desire to learn English, determination, and deliberate practice to dramatically boost your fluency in just 50 days.",
+        "duration": "2-months",
+        "price": 6000
+      },
+      {
+        "id": 2,
+        "course": "Web Development",
+        "image": "https://lwfiles.mycourse.app/masai-school-public/7515af5b9ee268ebcf2e99bd107fe442.png",
+        "description": "This web development course will teach you about basics of HTML and CSS. At the end of this course you will be able to create your own web apps.",
+        "duration": "8-months",
+        "price": 55000
+      },
+      {
+        "id": 3,
+        "course": "Bootstrap CSS",
+        "image": "https://lwfiles.mycourse.app/masai-school-public/0623b4c2e5f18cdcdae0ab1dd04c7711.png",
+        "description": "Bootstrap is a popular open-source CSS framework for developing responsive, mobile-first projects on the web, built by Twitter. Version-4 Goals : - Learn how to use bootstrap.",
+        "duration": "4-months",
+        "price": 30000
+      },
+      {
+        "id": 4,
+        "course": "Android App Development",
+        "image": "https://lwfiles.mycourse.app/masai-school-public/82662a57db0e965930698ac34f187990.png",
+        "description": "At the end of this course you will be able to create your own Android App.",
+        "duration": "5-months",
+        "price": 40000
+      },
+      {
+        "id": 5,
+        "course": "Basics of SQL",
+        "image": "https://lwfiles.mycourse.app/masai-school-public/913d2657f8375aa878a97df1e1f51f67.png",
+        "description": "Structured Query Language(SQL) is a powerful language used in data science, analytics, and engineering. The query language makes it easy to work with data and make more informed strategies and business decisions. It is a must-know skill for anyone who works with data.",
+        "duration": "3-months",
+        "price": 35000
+      },
+      {
+        "id": 6,
+        "course": "Basics of Data Analytics",
+        "image": "https://lwfiles.mycourse.app/masai-school-public/f8202568c265f279d58f4a67047d9f52.png",
+        "description": "Learn the fundamentals of data analytics without having any prior experience.",
+        "duration": "2-months",
+        "price": 15000
+      },
+      {
+        "id": 7,
+        "course": "React Native Expo Elective",
+        "image": "https://lwfiles.mycourse.app/masai-school-public/78e3edff168d3f9f55e4952f1d4bf524.png",
+        "description": "Learn how to build mobile apps with React Native. Understand how to set up a react native project with expo. Work with basic components. Work with navigation. Build a small app on Mobile.",
+        "duration": "3-months",
+        "price": 20000
+      },
+      {
+        "id": 8,
+        "course": "SASS",
+        "image": "https://lwfiles.mycourse.app/masai-school-public/5ca7d6aca135a956ef166ea717800ed4.png",
+        "description": "CSS with superpowers. SASS stands for Syntactically Awesome Style Sheets. Sass is the most mature, stable, and powerful professional grade CSS extension language in the world.",
+        "duration": "4-months",
+        "price": 25000
+      },
+      {
+        "id": 9,
+        "course": "Basics of Python (English)",
+        "image": "https://lwfiles.mycourse.app/masai-school-public/e88f93d1abb39f8ae901b233cabdc955.jpeg",
+        "description": "This course is an introduction to both fundamental programming concepts and the Python programming language. It aims to teach how to write computer programs in Python.",
+        "duration": "1-months",
+        "price": 4500
+      },
+      {
+        "id": 10,
+        "course": "Figma for Developers",
+        "image": "https://lwfiles.mycourse.app/masai-school-public/f55a6ba8a428ba86c589f87adcf0bd69.png",
+        "description": "Figma is a collaborative web application for interface design Learn how to use Figma - Design Websites - Design mobile and desktop apps - You will have a fully interactive design and prototype at the end of this course.",
+        "duration": "2-months",
+        "price": 9000
+      },
+      {
+        "id": 11,
+        "course": "NPM",
+        "image": "https://lwfiles.mycourse.app/masai-school-public/eb7a11f002ebb3c332a7c25974cdc691.png",
+        "description": "NPM is the world's largest software registry. Open-source developers from all around the world use npm to share and borrow packages, and many organizations use npm to manage private development as well.",
+        "duration": "2-months",
+        "price": 8000
+      },
+      {
+        "id": 12,
+        "course": "Introduction to Animation",
+        "image": "https://lwfiles.mycourse.app/masai-school-public/2875594ffdb78e5c8d3ba9153075151e.png",
+        "description": "CSS animations make it possible to animate transitions from one CSS style configuration to another. Animations consist of two components, a style describing the CSS animation and a set of keyframes that indicate the start and end states of the animation's style, as well as possible intermediate waypoints.",
+        "duration": "4-months",
+        "price": 18000
+      },
+      {
+        "id": 13,
+        "course": "Learn Vue 3 and Firebase",
+        "image": "https://lwfiles.mycourse.app/masai-school-public/d182c39252014eaa3af652a8c8944cb5.png",
+        "description": "Learn Vue 3 and Firebase 9 by building a real world online store. In this Vue 3 course, you will learn in depth about Composition API, Pinia State Management, Vue Router, Quasar.",
+        "duration": "3-months",
+        "price": 22000
+      }
+    ]
+  }
